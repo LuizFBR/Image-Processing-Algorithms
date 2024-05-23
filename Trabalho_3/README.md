@@ -1,0 +1,1 @@
+codificar.py is a python program that has a steganography() function that encodes a message in the least significant bits of each RGB band of an image and a decode() function that, given a input image and a mask, returns the message encoded in the least significant bits of each RGB band of the masked image.
